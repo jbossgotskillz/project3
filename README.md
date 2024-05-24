@@ -22,7 +22,7 @@ Improvements: Experiment with other forms of state management (such as useReduce
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="./index.css">
+    <link rel="stylesheet" type="text/css" href="index.css">
 
 </head>
 
@@ -32,7 +32,7 @@ Improvements: Experiment with other forms of state management (such as useReduce
     <nav class="navbar my-4">
         <div class="row container-fluid">
             <div class="col-2">
-                <img src="./gigatech_robot.jpg" height="150" alt="app symbol">
+                <img src="gigatech_robot.jpg" height="150" alt="app symbol">
             </div>
             <div class="col-4 text-center">
               <p class="navbar-brand my-auto">Taskbot</p>
