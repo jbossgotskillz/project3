@@ -10,8 +10,6 @@ Technologies: html, css, js, jsx
 
 Improvements: Experiment with other forms of state management (such as useReducer and useEffect), import icons for tasks, create an app that utilizes React-Router and Redux
 
-<!doctype html>
-
 <html lang="en">
 
 <head>
