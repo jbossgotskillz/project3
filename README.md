@@ -34,6 +34,9 @@ Improvements: Experiment with other forms of state management (such as useReduce
 
 </head>
 
+
+<body>
+
     <nav class="navbar my-4">
         <div class="row container-fluid">
             <div class="col-2">
@@ -44,9 +47,6 @@ Improvements: Experiment with other forms of state management (such as useReduce
             </div>
         </div>
     </nav>
-
-<body>
-
 
     <div id="root"></div>
 
