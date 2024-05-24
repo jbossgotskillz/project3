@@ -12,11 +12,11 @@ import './app.css';
 function App() {
 
 	return(
-		<div className="App">
-			<header className="App-header">
+		<div>
+			<header>
 				Task Manager
 			</header>
-			<main className="task-container">
+			<main>
 				<Home />
 				<Todo />
 				<TodoForm />
@@ -35,4 +35,44 @@ export default function App()
  
 
  
+ /*document.querySelector("html").addEventListener("click", function () {
+	alert("Ouch! Stop poking me!");
+  })*/
+
+  /*function practiceButton() {
+	document.getElementById("demo").innerHTML = "I can't believe this works";
+  }*/
+
+  
  
+ //document.querySelector('.js-container').innerHTML = 'BITCH ASS NIGGA';
+
+  /*let x = myFunction(4, 3);
+  document.getElementById("demo").innerHTML = x;
+  
+  function myFunction(a, b) {
+	if (a === 4 && b === 3) {
+  
+	
+	return "booboo keys";
+  } else {
+	return "doodoo head";
+  }
+  }*/
+
+
+
+  /*let a = 9
+function Stuff () {
+
+    
+	if (a > 7) {
+  
+	
+	return "booboo keys";
+  } else {
+    return "doodoo head";
+  }
+  }*/
+
+
