@@ -27,7 +27,7 @@ Improvements: Experiment with other forms of state management (such as useReduce
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="main/index.css">
     
     <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
     <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
@@ -39,7 +39,7 @@ Improvements: Experiment with other forms of state management (such as useReduce
     <nav class="navbar my-4">
         <div class="row container-fluid">
             <div class="col-2">
-                <img src="./images/gigatech-robot.jpg" height="150" alt="app symbol">
+                <img src="main/gigatech-robot.jpg" height="150" alt="app symbol">
             </div>
             <div class="col-4 text-center">
               <p class="navbar-brand my-auto">Taskbot</p>
@@ -68,7 +68,7 @@ Improvements: Experiment with other forms of state management (such as useReduce
     <!--company logo and slogan-->
     
     <div class="text-center">
-        <img src="./images/gigatech-logo.jpg" alt="company logo">
+        <img src="main/gigatech-logo.jpg" alt="company logo">
         <p>Gigetech - human tested, robot approved</p>
     </div>
 
@@ -78,8 +78,8 @@ Improvements: Experiment with other forms of state management (such as useReduce
     <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 
-    <script src="./js/project3-scripts.js"></script>
-    <script src="/src/index.js"></script>
+    <script src="main/project3-scripts.js"></script>
+    <script src="main/index.js"></script>
 
 </body>
 
